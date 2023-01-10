@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+To run this project in your system:
+
+1) clone the repository:
+  copy the https link from the code button 
